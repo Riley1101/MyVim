@@ -2,7 +2,7 @@
 
 # My main learning spaces
 
-NeoVim(https://neovim.io/)
+[NeoVim](https://neovim.io/)
 
 [Vim tutor ](http://www2.geog.ucl.ac.uk/~plewis/teaching/unix/vimtutor)
 
