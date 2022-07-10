@@ -1,6 +1,6 @@
 # My nvim config that I am currently using 
 
-# My main learning spaces
+## My main learning spaces
 
 [NeoVim](https://neovim.io/)
 
